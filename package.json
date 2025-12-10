@@ -1,0 +1,22 @@
+{
+  "name": "deps-list",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "deps-list": "./src/bin/scan.js"
+  },
+  "type": "module",
+  "author": "Ningaro",
+  "license": "MIT",
+  "engines": {
+    "npm": ">=10",
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "prettier": "3.7.4"
+  },
+  "dependencies": {
+    "@babel/helper-validator-identifier": "^7.22.5",
+    "yaml": "^2.8.2"
+  }
+}
