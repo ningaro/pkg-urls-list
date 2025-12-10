@@ -17,7 +17,6 @@
     "prettier": "3.7.4"
   },
   "dependencies": {
-    "@babel/helper-validator-identifier": "^7.22.5",
     "yaml": "^2.8.2"
   }
 }
